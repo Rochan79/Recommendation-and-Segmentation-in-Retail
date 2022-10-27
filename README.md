@@ -10,7 +10,7 @@ This repository covers 3 mains types of marketing analysis done on an eCommerce 
 | Sl. No.      | Name | UT EID |
 | --- | --- | --- |
 | 1. | Chyavan Mysore Chandrashekar | CM65624 |
-| 2. | Prathyusha Vedulla |  |
+| 2. | Prathyusha Vedulla | pv6269 |
 | 3. | Rochan Nehete |  |
 | 4. | Sai Bhargav Tetali |  |
 | 5. | Shubhada Kapre |  |
