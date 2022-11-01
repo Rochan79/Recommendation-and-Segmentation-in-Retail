@@ -11,6 +11,6 @@ This repository covers 3 mains types of marketing analysis done on an eCommerce 
 | --- | --- | --- |
 | 1. | Chyavan Mysore Chandrashekar | CM65624 |
 | 2. | Prathyusha Vedulla | PV6269 |
-| 3. | Rochan Nehete |  |
+| 3. | Rochan Nehete | rrn479 |
 | 4. | Sai Bhargav Tetali |  |
 | 5. | Shubhada Kapre |  |
