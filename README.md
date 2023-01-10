@@ -1,4 +1,4 @@
-# Retail Marketing Project
+# Recommendation and Segmentation in Retail
 
 This repository covers 3 mains types of marketing analysis done on an eCommerce Retail database from [Kaggle](https://www.kaggle.com/datasets/ilkeryildiz/online-retail-listing):
 1. Market Basket Analysis
