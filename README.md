@@ -61,11 +61,11 @@ Following are some recommendations of Complementary MBA:
 
 Following are some recommendations of Substitutive MBA:
 
-![Substitutive MBA](/data/Substitutive MBA.png "Substitutive MBA")
+![Substitutive](/data/Substitutive MBA.png)
 
 This method does not always work properly. Sometimes it may make errors as well such as:
 
-![Substitutive MBA fail](/data/Substitutive MBA fail.png "Substitutive MBA fail")
+![Substitutive](/data/Substitutive MBA fail.png)
 
 2. Customer Segmentation:
 The 111 segment is the best customer segment with recent purchases, higher monetary value and higher frequency of purchase, whereas 555 are the complete opposite of the same
