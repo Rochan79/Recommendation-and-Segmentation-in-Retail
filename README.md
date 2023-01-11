@@ -10,9 +10,9 @@ This repository covers 2 main types of marketing analysis done on an eCommerce R
 | --- | --- | --- |
 | 1. | Chyavan Mysore Chandrashekar | CM65624 |
 | 2. | Prathyusha Vedulla | PV6269 |
-| 3. | Rochan Nehete | rrn479 |
-| 4. | Sai Bhargav Tetali | srt2578 |
-| 5. | Shubhada Kapre | sk55489 |
+| 3. | Rochan Nehete | RRN479 |
+| 4. | Sai Bhargav Tetali | SRT2578 |
+| 5. | Shubhada Kapre | SK55489 |
 
 
 ## 1. Market Basket Analysis 
