@@ -1,4 +1,4 @@
-# Recommendation and Segmentation in Retail
+# Retail Marketing Project
 
 This repository covers 3 mains types of marketing analysis done on an eCommerce Retail database from [Kaggle](https://www.kaggle.com/datasets/ilkeryildiz/online-retail-listing):
 1. Market Basket Analysis
@@ -42,3 +42,36 @@ Monetary: How much does the customer spend on purchasing products from us
 Using RFM analysis we get to know our most profitable customers. By this information we can optimize the customer service and promotional budgets to maximize profits. 
 
 ## Results
+
+1. Market Basket Analysis:
+   a. Complementary MBA -
+        -We have 4920 products, so a lift table is a 4920x4920 matrix!
+        -To calculate the lift between every 2 products, our code took over 31 hours of computation using the most optimal lookup possible.
+        -Once we have the lift matrix, we found the top-5 products associated with each product.
+
+Following are some recommendations of Complementary MBA:
+
+![Complementary MBA](../data/Complementary MBA.png "Complementary MBA")
+
+
+   b. Substitutive MBA - 
+        -We could sort the 25 products by descending order of their lift (WRT complementary products), and choose the top-5
+        -We could take the top-most from each bucket of 5 in the third layer
+        -We could divide the 25 products based on their category, and take only the top-5 products that are of the same category as that of Product A
+
+Following are some recommendations of Substitutive MBA:
+
+![Substitutive MBA](../data/Substitutive MBA.png "Substitutive MBA")
+
+This method does not always work properly. Sometimes it may make errors as well such as:
+
+![Substitutive MBA fail](../data/Substitutive MBA fail.png "Substitutive MBA fail")
+
+2. Customer Segmentation:
+The 111 segment is the best customer segment with recent purchases, higher monetary value and higher frequency of purchase, whereas 555 are the complete opposite of the same
+![RFM](../data/RFM.png "RFM")
+
+
+
+
+
