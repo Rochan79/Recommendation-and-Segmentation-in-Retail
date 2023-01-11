@@ -51,7 +51,7 @@ Using RFM analysis we get to know our most profitable customers. By this informa
 
 Following are some recommendations of Complementary MBA:
 
-!(/data/Complementary.png "Complementary MBA")
+![Complementary](/data/Complementary.png "Complementary MBA")
 
 
    b. Substitutive MBA - 
