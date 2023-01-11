@@ -51,7 +51,7 @@ Using RFM analysis we get to know our most profitable customers. By this informa
 
 Following are some recommendations of Complementary MBA:
 
-![Complementary MBA](../data/Complementary MBA.png "Complementary MBA")
+![Complementary MBA](/data/Complementary MBA.png "Complementary MBA")
 
 
    b. Substitutive MBA - 
@@ -61,15 +61,15 @@ Following are some recommendations of Complementary MBA:
 
 Following are some recommendations of Substitutive MBA:
 
-![Substitutive MBA](../data/Substitutive MBA.png "Substitutive MBA")
+![Substitutive MBA](/data/Substitutive MBA.png "Substitutive MBA")
 
 This method does not always work properly. Sometimes it may make errors as well such as:
 
-![Substitutive MBA fail](../data/Substitutive MBA fail.png "Substitutive MBA fail")
+![Substitutive MBA fail](/data/Substitutive MBA fail.png "Substitutive MBA fail")
 
 2. Customer Segmentation:
 The 111 segment is the best customer segment with recent purchases, higher monetary value and higher frequency of purchase, whereas 555 are the complete opposite of the same
-![RFM](../data/RFM.png "RFM")
+![RFM](/data/RFM.png "RFM")
 
 
 
