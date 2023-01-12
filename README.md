@@ -27,7 +27,7 @@ Our analysis involves recommending products to users using 2 approaches:
 In this we aim to recommend products with the greatest Lift and a Lift value at least greater than 1
 
 ### b. Substitutive Products - 
-This is an extention of the previous approach. Consider 3 products A,B and C. Suppose A and B are found to have a significant association in terms of the Lift score, and B and C are also found to have a similarly high association, then there is a high chance that A and C are substitutive products. 
+This is an extention of the previous approach. Consider 3 products A,B and C. Suppose A and B are found to have a significant association in terms of the Lift score, and B and C are also found to have a similarly high association, then there is a high chance that A and C are substitutive products.
 
 ## 2. Customer Segmentation
 
